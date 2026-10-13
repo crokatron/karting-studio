@@ -1,0 +1,39 @@
+[
+  {
+    "boxes": [
+      {
+        "h": 29,
+        "selector": "#exclude",
+        "text": "This fictional 78.3-second lap remains in the original records.",
+        "title": "Identify an incident",
+        "w": 28.875,
+        "x": 322,
+        "y": 499.015625
+      },
+      {
+        "h": 59.1875,
+        "selector": "#compare",
+        "text": "Compare with and without the reversible exclusion.",
+        "title": "Recalculate fairly",
+        "w": 260,
+        "x": 318,
+        "y": 550.515625
+      },
+      {
+        "h": 532.9375,
+        "selector": "#result",
+        "text": "Best and mean laps tell different stories; neither is a universal rating.",
+        "title": "Separate best from consistency",
+        "w": 517.078125,
+        "x": 1228.90625,
+        "y": 461.515625
+      }
+    ],
+    "height": 1408,
+    "width": 2055,
+    "key": "simulation",
+    "title": "Try the working offline example",
+    "caption": "Screenshot of this project’s interactive demo. Side-by-side services are explicitly simulated.",
+    "cropHeight": 1035.453125
+  }
+]

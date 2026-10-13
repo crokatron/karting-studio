@@ -1,0 +1,72 @@
+{
+  "slug": "karting-studio",
+  "title": "Karting Studio",
+  "summary": "Review recorded karting sessions, compare drivers and distinguish a fast lap from consistent pace. The hosted tool combines session analysis, driver profiles and owner-managed imports. Public comparison links, when enabled by the owner, are read-only views of current saved results.",
+  "features": [
+    [
+      "Session selection",
+      "Choose venue/session and inspect a leaderboard and lap history.",
+      "Hosted analysis"
+    ],
+    [
+      "Driver comparison",
+      "Compare two drivers, lap charts, median pace, consistency and available summary metrics.",
+      "Hosted analysis"
+    ],
+    [
+      "Incident handling",
+      "Exclude an incident lap with a reason and restore it later; retain the original record.",
+      "Hosted analysis"
+    ],
+    [
+      "Driver directory",
+      "Track repeated drivers, aliases and profile decisions; owner tools merge/unmerge identities.",
+      "Hosted analysis"
+    ],
+    [
+      "Ratings",
+      "Choose the disclosed Peak speed or Balanced driving comparison convention.",
+      "Hosted analysis"
+    ],
+    [
+      "Imports and sharing",
+      "Preview workbook imports and share supported read-only driver comparisons.",
+      "Hosted analysis"
+    ]
+  ],
+  "workflows": [
+    [
+      "Compare two drivers",
+      [
+        "Choose the venue and session first so both drivers are being compared in the intended context. Select two driver profiles.",
+        "Read the best lap alongside median pace and consistency; a single best lap does not describe an entire session.",
+        "Inspect the lap plot and lap-1 choice. A summary-only source may not support a full lap-by-lap chart."
+      ]
+    ],
+    [
+      "Explain an outlier",
+      [
+        "Open Inspect laps and find the specific incident lap. An owner can enter a reason and exclude it from the relevant analysis.",
+        "Check how the summary changes. Exclusion is a reversible analysis decision, not deletion of the original timing record.",
+        "Use Restore lap to put it back; retain notes explaining why the comparison changed."
+      ]
+    ],
+    [
+      "Maintain driver identities and share results",
+      [
+        "In the directory, verify that similar names are actually the same person before merging. Select the intended profiles and review the proposed combined history.",
+        "Give the combined profile a clear name and save only after checking the preview. Retained original timing names can resolve through aliases; unmerge is a separate owner operation.",
+        "Use Share / Copy link for a comparison you intend others to see. The link reflects current saved data, not a frozen report, and its permitted view remains read-only."
+      ]
+    ],
+    [
+      "Import another session",
+      [
+        "Use Imports & sources to select the supported workbook/archive. Review its preview and duplicate status before committing.",
+        "Confirm venue, participants, sessions and lap counts rather than assuming a new file is entirely new data.",
+        "Return to the relevant session and verify the visible results. Source spreadsheets should remain backed up separately."
+      ]
+    ]
+  ],
+  "limits": "Stars are a disclosed relative scoring convention, not an independent assessment of driving ability. This repository contains app/host modules and needs the shared gateway to run as hosted software. The demo uses fictional drivers."
+}

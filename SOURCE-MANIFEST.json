@@ -1,0 +1,20 @@
+{
+  "projects-host/site/yas-karting/analysis.js": "5a1e7f334305ed8ede74d2d2868db2fb782a1097ed829e3c2f139ccbc5b780ef",
+  "projects-host/site/yas-karting/app.js": "100dc3f464fdc2768a347e8b1e9ecd8be8b0cd0c54a12b29c752f7916f4e07a5",
+  "projects-host/site/yas-karting/capture.js": "a04ab13359beb480ff1533fd97c2a58714f8348a0f82f8f7d893d55d05f5c248",
+  "projects-host/site/yas-karting/drivers.js": "64f09b583a66683dd839b97a3075a225554af511b383803075be42de61a15ffc",
+  "projects-host/site/yas-karting/guidance.js": "02481dfd39b5a62a24168a95426f69fd2e23f4b72da98d441a7eb34ece2dcbdd",
+  "projects-host/site/yas-karting/index.html": "82a18c3f15656c7f3937516177d833f276be617d6af8cc3d13e4cc1e4b75e21d",
+  "projects-host/site/yas-karting/leaderboard.js": "cee95092dfd3055b7dab23dedb8d592d08f04c94da244cc5f0a2727dfad64c2a",
+  "projects-host/site/yas-karting/multiplayer.js": "aa37280da75b78bdc274626beab3305b1452179525279c52da34fbd514482c97",
+  "projects-host/site/yas-karting/physics.js": "94ccbeedec36d9bda91a4823f3cb0c67ce4993bf532986af25a4ffefb05f206b",
+  "projects-host/site/yas-karting/ratings-ui.js": "c020a1a18aeae592d210b763df51b79aa07556e7eda33c6ad8489b6e87bbc71e",
+  "projects-host/site/yas-karting/ratings.js": "b1a30332e8baa5633a28f4b4de41dad2f2ae91b0188c43143e0441870c2acd78",
+  "projects-host/site/yas-karting/simulator.js": "8c37055e729274b02295d718584d08a7451c318002c24067d45bd026108a7fdc",
+  "projects-host/site/yas-karting/style.css": "13ba8117b415b3e9fe53f250c88de59d1885201d4cd74bd7a570528db47fad2c",
+  "projects-host/site/yas-karting/tilt.js": "66005a93fa66e0c4506934803b5506bc781beb86c54dacf6242bdbc179eefa2c",
+  "projects-host/site/yas-karting/track.js": "3c207aedf6e574f2e9ff7fb0e7f7816139ec09a0eb41b5fcba94fd8a3c495b3b",
+  "projects-host/site/yas-karting/track.svg": "87181dab20d9e113391bd0b1bf6dc5225f65f5a0c04b4c2be4b7523a6eddc9dc",
+  "projects-host/host/karting_portal.py": "6b173104b6db4a386eab52f1cbabc2ca20e15b797ebe5fdd0700b7563a018b67",
+  "projects-host/host/karting.py": "837a0ad9adaf80706ab33dec17d38c2fff34daabe7b811211b38fbbb3b0312c5"
+}
