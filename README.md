@@ -1,5 +1,7 @@
 # Karting Studio
 
+**Maintaining this project? [Start here](docs/START-HERE.md) · [Detailed handover](docs/HANDOVER.md)**
+
 Review recorded karting sessions, compare drivers and distinguish a fast lap from consistent pace. The hosted tool combines session analysis, driver profiles and owner-managed imports. Public comparison links, when enabled by the owner, are read-only views of current saved results.
 
 **Private preview · not published.**
