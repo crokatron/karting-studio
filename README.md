@@ -4,7 +4,9 @@
 
 Review recorded karting sessions, compare drivers and distinguish a fast lap from consistent pace. The hosted tool combines session analysis, driver profiles and owner-managed imports. Public comparison links, when enabled by the owner, are read-only views of current saved results.
 
-**Private preview · not published.**
+[Publication checks and remaining limits](docs/PUBLICATION.md)
+
+**Public source preview · MIT for original contributions.**
 
 [Open the visual manual](docs/USER-MANUAL.md) · [Download the self-contained demo](demo.html) · [Release notes](CHANGELOG.md)
 
